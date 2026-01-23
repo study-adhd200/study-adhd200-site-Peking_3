@@ -1,4 +1,4 @@
 [submodule "sourcedata/raw"]
 	path = sourcedata/raw
-	url = ./sourcedata/raw
+	url = https://github.com/study-adhd200/study-adhd200-site-Peking_1-sourcedata-raw.git
 	datalad-id = 0f522cdd-73eb-4a90-b70a-36e7fbac85d3
